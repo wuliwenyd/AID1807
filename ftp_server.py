@@ -1,5 +1,5 @@
 '''
-ftp 文件服务器
+ftp 文件服务器dsfdskfdsjkj
 '''
 from socket import *
 import os 
